@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Al%20A%20Min&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Vibe%20Coder&descSize=20&descAlignY=60&color=4A90D9" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=0D5016&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Al+A+Min" alt="Al A Min" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Integration+Expert;Vibe+Coder;Building+Cool+Stuff" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D5016&height=200&section=header&text=&fontSize=18&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Vibe%20Coder&descSize=20&descAlignY=60" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0D5016&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Integration+Expert;Vibe+Coder;Building+Cool+Stuff" alt="Typing SVG" />
 
 <a href="https://github.com/alaminnna" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-333?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0D5016?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/alaminnna" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -77,10 +79,10 @@ I'm a **Full Stack Developer** who loves turning ideas into reality. Whether it'
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://via.placeholder.com/400x200/1a1a2e/4A90D9?text=Project+1+%7C+Coming+Soon" width="100%" />
+      <img src="https://via.placeholder.com/400x200/0D5016/FFFFFF?text=Project+1+%7C+Coming+Soon" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://via.placeholder.com/400x200/1a1a2e/4A90D9?text=Project+2+%7C+Coming+Soon" width="100%" />
+      <img src="https://via.placeholder.com/400x200/0D5016/FFFFFF?text=Project+2+%7C+Coming+Soon" width="100%" />
     </td>
   </tr>
 </table>
@@ -99,8 +101,8 @@ I'm a **Full Stack Developer** who loves turning ideas into reality. Whether it'
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alaminnna&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminnna&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=alaminnna&show_icons=true&theme=green-dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminnna&theme=green-dark&hide_border=true" width="48%" />
 
 </div>
 
@@ -121,6 +123,6 @@ I'm a **Full Stack Developer** who loves turning ideas into reality. Whether it'
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=alaminnna&color=4A90D9&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=alaminnna&color=0D5016&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
