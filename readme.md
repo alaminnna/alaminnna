@@ -1,7 +1,7 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=250&section=header&text=Al%20A%20Min&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=B30000" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=250&section=header&text=Al%20A%20Min&fontSize=80&animation=fadeIn&fontAlignY=35" />
-
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0D5016&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Integration+Expert;Vibe+Coder;Building+Cool+Stuff" alt="Typing SVG" />
 
 <a href="https://github.com/alaminnna" target="_blank">
