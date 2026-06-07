@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D5016&height=250&section=header&text=Al%20A%20Min&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Vibe%20Coder&descSize=20&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=250&section=header&text=Al%20A%20Min&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Vibe%20Coder&descSize=20&descAlignY=60" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0D5016&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Integration+Expert;Vibe+Coder;Building+Cool+Stuff" alt="Typing SVG" />
 
