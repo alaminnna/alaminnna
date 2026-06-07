@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=flat&color=000000&height=120&section=header&text=Al%20A%20Min&fontSize=60&fontColor=0D5016&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D5016&height=250&section=header&text=Al%20A%20Min&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Vibe%20Coder&descSize=20&descAlignY=60" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D5016&height=150&section=header&text=&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0D5016&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Integration+Expert;Vibe+Coder;Building+Cool+Stuff" alt="Typing SVG" />
 
 <a href="https://github.com/alaminnna" target="_blank">
 <img src="https://img.shields.io/badge/GITHUB-0D5016?style=for-the-badge&logo=github&logoColor=white" />
@@ -121,6 +121,6 @@ I'm a **Full Stack Developer** who loves turning ideas into reality. Whether it'
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=alaminnna&color=0D5016&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=alaminnna&color=4A90D9&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
