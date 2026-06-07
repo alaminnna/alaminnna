@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=250&section=header&text=Al%20A%20Min&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=B30000" />
 
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0D5016&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Integration+Expert;Vibe+Coder;Building+Cool+Stuff" alt="Typing SVG" />
+
+<!-- HEADER BANNER (Bangladesh Flag Inspired) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006A4E&height=250&section=header&text=Al%20A%20Min&fontSize=78&animation=fadeIn&fontAlignY=35&fontColor=8B0000" />
 
 <a href="https://github.com/alaminnna" target="_blank">
 <img src="https://img.shields.io/badge/GITHUB-0D5016?style=for-the-badge&logo=github&logoColor=white" />
