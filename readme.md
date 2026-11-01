@@ -1,146 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f2fe&height=250&section=header&text=Al%20A%20Min&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
-
-# Al A Min
-
-### AI Developer • Full Stack Web Developer • Founder
-
-Building AI-powered applications, developer tools, SaaS products, and open-source software.
-
-<p>
-
 <a href="https://alaminnna.ami.bd">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img alt="Hello, I'm Al A Min" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:00c2ff&height=230&section=header&text=Al%20A%20Min&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20%C2%B7%20Full%20Stack%20%C2%B7%20Founder&descAlignY=60&descSize=17" width="100%" />
 </a>
-
-<a href="https://github.com/alaminnna">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/alaminnna">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
 
 </div>
 
----
+> Builder, tinkerer, occasional overthinker — I like to ship an idea before it gets too comfortable. Most of what I make is on [my website](https://alaminnna.ami.bd).
 
-# About
+- 🤖 **AI, but useful.** Products that solve something real — not demos that only look impressive.
+- ⚡ **Ship first, polish forever.** Idea today, prototype tonight, release this week.
+- 🌱 **Open by default.** Growing [Alaminnna](https://github.com/alaminnna) into a home for AI products, SaaS, and developer tools.
 
-I'm **Al A Min (Alaminnna)**, a Bangladeshi AI Developer, Full Stack Web Developer, Founder, and Open Source Builder.
+<br/>
 
-I enjoy building modern web applications, AI-powered products, developer tools, and digital experiences using JavaScript, TypeScript, React, Next.js, Node.js, Python, and cloud technologies.
+## Now
 
-As an independent builder, I'm continuously learning, experimenting, and shipping software while growing **Alaminnna** into a technology brand focused on AI products, SaaS platforms, developer tools, and open-source projects.
+| | |
+|:--|:--|
+| **Building** | AI products and SaaS platforms under the Alaminnna brand |
+| **Writing** | Notes on shipping fast, prompt engineering, and building solo |
+| **Learning** | Whatever the last bug taught me — usually the hard way |
+| **Open to** | Collaborations, interesting problems, and good conversations |
 
----
+<br/>
 
-# Current Focus
+## Toolbox
 
-- 🤖 AI-powered Applications
-- 🚀 SaaS Products
-- 💻 Full Stack Web Development
-- 🌍 Open Source Projects
-- 🧠 Prompt Engineering
-- ⚡ Developer Tools
+> The short version: TypeScript in the front, Node or Python behind it, AI in the middle.
 
----
+<details>
+<summary><b>See the full stack</b></summary>
 
-# Tech Stack
+<br/>
 
-### Frontend
+| Layer | I reach for |
+|:--|:--|
+| **Frontend** | `React` `Next.js` `JavaScript` `TypeScript` `Tailwind CSS` |
+| **Backend** | `Node.js` `Express.js` `Python` |
+| **Data** | `MongoDB` `Firebase` `Supabase` |
+| **AI** | `OpenAI` `Gemini` `Prompt Engineering` `AI-assisted development` |
+| **Ship** | `Git` `GitHub` `Vercel` `REST APIs` |
 
-React • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
+</details>
 
-### Backend
+<br/>
 
-Node.js • Express.js • Python
+## Featured work
 
-### Database
+Most of my repos fall into four buckets — **AI applications**, **SaaS platforms**, **developer tools**, and **UI components**. A few things worth clicking around for:
 
-MongoDB • Firebase • Supabase
+- **AI apps** — assistants and agents wired to real workflows
+- **SaaS** — products that ship with billing, auth, and a dashboard
+- **Dev tools** — small utilities that remove a repeated annoyance
+- **Open source** — libraries and components you can actually reuse
 
-### AI
-
-OpenAI API • Gemini API • Prompt Engineering • AI-assisted Development
-
-### Tools
-
-Git • GitHub • Vercel • VS Code • REST APIs
-
----
-
-# Featured Work
-
-I enjoy building projects that combine modern web technologies with AI.
-
-You'll find projects related to:
-
-- AI Applications
-- SaaS
-- Web Platforms
-- Developer Tools
-- Open Source Libraries
-- UI Components
-- Automation
-- Productivity
-
----
-
-# GitHub Analytics
+<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alaminnna&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminnna&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminnna&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=alaminnna&show_icons=true&hide_border=true&hide_title=true&theme=github_dark&bg_color=0D1117&icon_color=00c2ff&text_color=9aa4b2&count_private=true&include_all_commits=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminnna&layout=compact&hide_border=true&hide_title=true&theme=github_dark&bg_color=0D1117&text_color=9aa4b2&langs_count=6" />
 
 </div>
 
----
+<br/>
+
+## Say hello
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+**[Website](https://alaminnna.ami.bd)** &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/alaminnna) &nbsp;·&nbsp;
+[GitHub](https://github.com/alaminnna) &nbsp;·&nbsp;
+[Hashnode](https://hashnode.com/@alaminnna) &nbsp;·&nbsp;
+[DEV](https://dev.to/alaminnna) &nbsp;·&nbsp;
+[npm](https://npmjs.com/~alaminnna) &nbsp;·&nbsp;
+[YouTube](https://youtube.com/@alaminnna)
 
 </div>
 
----
-
-# Connect
-
-🌐 Website  
-https://alaminnna.ami.bd
-
-💼 LinkedIn  
-https://linkedin.com/in/alaminnna
-
-🐙 GitHub  
-https://github.com/alaminnna
-
-📝 Hashnode  
-https://hashnode.com/@alaminnna
-
-📚 DEV  
-https://dev.to/alaminnna
-
-📦 npm  
-https://npmjs.com/~alaminnna
-
-▶️ YouTube  
-https://youtube.com/@alaminnna
-
----
+<br/>
 
 <div align="center">
 
-> Building useful software, one project at a time.
+<sub>Building useful software, one project at a time.</sub>
 
-<img src="https://komarev.com/ghpvc/?username=alaminnna&label=Profile+Views&color=00f2fe"/>
+<img src="https://komarev.com/ghpvc/?username=alaminnna&label=profile+views&color=00c2ff&style=flat-square" />
 
 </div>
